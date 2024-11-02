@@ -1,0 +1,7 @@
+# opencv-python
+# plotly
+# torch
+# researchpy
+Flask 
+Flask-SQLAlchemy
+# dotenv
